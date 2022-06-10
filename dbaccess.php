@@ -27,7 +27,7 @@ try{
                                                                      <title>test page for database access</title>
                                                                      </head>
                                                                      <body >
-                                                                     Last Access Time<br><br>
+                                                                     Last Access Time kkkkk<br><br>
                                                                      <?php foreach ($rec as $a):?>
                                                                              <?=escape1($a)?><br>
                                                                              <?php endforeach; ?>
