@@ -30,6 +30,7 @@ try{
                                                                      Last Access Time kkkkk<br><br>
                                                                      <?php foreach ($rec as $a):?>
                                                                              <?=escape1($a)?><br>
-                                                                             <?php endforeach; ?>
+									     <?php endforeach; ?>
+                                                                              add by kouwt
                                                                              </body:>
                                                                              </html>
